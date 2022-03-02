@@ -15,6 +15,10 @@ author: "Shujaut H. Bader"
 
 navbar-links:
   About Me: "aboutme"
+  Research: 
+    - Projects:
+    - Publications: 
+  Teaching:
   Blogs:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
