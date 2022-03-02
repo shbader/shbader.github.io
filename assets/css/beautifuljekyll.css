@@ -253,7 +253,7 @@ img {
   border: 0;
   padding: 0;
   width: 1000%;
-  word-break: keep-all;
+  word-break: break-word;
 }
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   white-space: normal;
