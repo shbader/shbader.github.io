@@ -8,3 +8,12 @@ My name is Shujaut, and currently I am a doctoral candidate in Aerospace Enginee
 
 [here](/CVShujautBader.pdf)
  < a href = "https://github.com/shujauthbader/shujauthbader.github.io/blob/master/CVShujautBader.pdf" > ok</a>
+ 
+ <html>
+<body>
+
+</body>
+<script type="text/javascript">
+    document.location = "shujauthbader.github.io/blob/master/CVShujautBader.pdf"
+</script>
+</html>
