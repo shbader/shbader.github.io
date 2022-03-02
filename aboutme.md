@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 <p align=justify>
 My name is Shujaut, and currently I am a graduate student in Aerospace Engineering at the Department of Aerospace Engineering, Iowa State University. My major research focuses broadly on mathematical & computational modeling of turbulence in a variety of engineering and natural flows. Currently, I am working on the development of an algebraic closure for turbulent flux of a passive scalar within the framework of Large Eddy Simulations (LES). I am also pursuing two subsidiary degrees (graduate minors), one in Applied Scientific Computing and the second in the Department of Physics & Astronomy.  
