@@ -7,4 +7,4 @@ title: About me
 My name is Shujaut, and currently I am a doctoral candidate in Aerospace Engineering at Iowa State University. My major research focuses broadly on mathematical & computational modeling of turbulence in a variety of engineering and natural flows. I have minored in _Applied Scientific Computing_ and _Astrophysics_.  
 
 [here](/CVShujautBader.pdf)
- 
+ < a href = "https://github.com/shujauthbader/shujauthbader.github.io/blob/master/CVShujautBader.pdf" > ok</a>
