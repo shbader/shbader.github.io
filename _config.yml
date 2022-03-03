@@ -18,10 +18,9 @@ navbar-links:
   Research: 
     - Projects:
     - Publications: 
-  Teaching:
   Blogs:
     - Research Blog: "https://beautifuljekyll.com"
-    - Science Blog: "https://www.markdowntutorial.com/"
+    - Science Blog: "https://backscatterblog.blogspot.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
