@@ -19,8 +19,8 @@ navbar-links:
     - Projects:
     - Publications: 
   Blogs:
-    - Research Blog: "https://beautifuljekyll.com"
-    - Science Blog: "https://backscatterblog.blogspot.com/"
+    - Flux: "https://beautifuljekyll.com"
+    - backscatter: "https://backscatterblog.blogspot.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
