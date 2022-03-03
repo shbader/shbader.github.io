@@ -19,8 +19,8 @@ navbar-links:
     - Projects:
     - Publications: 
   Blogs:
-    - Flux: "https://beautifuljekyll.com"
-    - backscatter: "https://backscatterblog.blogspot.com/"
+    - Flux: "https://backscatterblog.blogspot.com/"
+    - backscatter: "/backscatter.md"
   #Author's home: "https://xyz.com"
 
 # --- Logo --- #
