@@ -14,7 +14,7 @@ author: "&#169; Shujaut H. Bader"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Research: 
     - Projects:
     - Publications: 
