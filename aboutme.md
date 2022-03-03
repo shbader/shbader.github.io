@@ -10,7 +10,7 @@ title: About me
  
 [here](https://drive.google.com/drive/u/1/folders/1yW8cw6ngMOOfbqLSN3o8pFKpl0J6ZACa)
  
-[Check out a demo](https://beautifuljekyll.com)
+[Check out a demo](/CVShujautBader.pdf)
 
  
  
