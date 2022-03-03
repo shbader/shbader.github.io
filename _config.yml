@@ -20,7 +20,7 @@ navbar-links:
     - Publications: 
   Blogs:
     - Flux: "https://backscatterblog.blogspot.com/"
-    - backscatter: "/backscatter.md"
+    - backscatter: "backscatter"
   #Author's home: "https://xyz.com"
 
 # --- Logo --- #
