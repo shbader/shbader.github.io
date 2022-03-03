@@ -21,7 +21,7 @@ navbar-links:
   Blogs:
     - Flux: "https://beautifuljekyll.com"
     - backscatter: "https://backscatterblog.blogspot.com/"
-  Author's home: "https://deanattali.com"
+  #Author's home: "https://xyz.com"
 
 # --- Logo --- #
 
