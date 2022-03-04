@@ -16,9 +16,9 @@ author: "&#169; Shujaut H. Bader"
 navbar-links:
   #About Me: "aboutme"
   Research: 
-    - Projects: "projectss"
-    - Publications: "publicationss"
-  Teaching & Mentorship:
+    - Projects: "projects"
+    - Publications: "publications"
+  Teachingg & Mentorship:
   Blogs:
     - Flux: "https://backscatterblog.blogspot.com/"
     - backscatter: "backscatter"
