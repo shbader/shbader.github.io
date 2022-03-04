@@ -16,7 +16,7 @@ author: "&#169; Shujaut H. Bader"
 navbar-links:
   #About Me: "aboutme"
   Research: 
-    - Projects:
+    - Projects: "projects"
     - Publications: 
   Teaching & Mentorship:
   Blogs:
