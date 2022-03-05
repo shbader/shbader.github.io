@@ -43,7 +43,7 @@ comments: true
       <article role="main" class="blog-post">
         {{ content }}
       </article>
-
+  {% include comments.html %}
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
@@ -77,7 +77,7 @@ comments: true
         </li>
         {% endif %}
       </ul>
-      {% include comments.html %}
+    
      
     </div>
   </div>
