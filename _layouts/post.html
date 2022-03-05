@@ -2,11 +2,7 @@
 layout: base
 comments: true
 ---
-{% include disqus.html %}
 
-{% include giscus-comment.html %}
-
-{% include fb-comment.html %}
 {% include header.html type="post" %}
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
@@ -82,6 +78,11 @@ comments: true
         {% endif %}
       </ul>
       {% include comments.html %}
+      {% include disqus.html %}
+
+{% include giscus-comment.html %}
+
+{% include fb-comment.html %}
     </div>
   </div>
 </div>
