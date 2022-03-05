@@ -3,7 +3,7 @@ layout: page
 title: backscatter
 ---
 
-
+{% include disqus.html %}
 
 {% assign posts = paginator.posts | default: site.posts %}
 
