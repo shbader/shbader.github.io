@@ -3,7 +3,7 @@ layout: post
 title: test sample
 published: true
 subtitle: Each post also has a subtitle
-gh-repo:  shujauthbader/temshb.github.io 
+gh-repo:  shujauthbader/shujauthbader.github.io/temshb.github.io 
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
