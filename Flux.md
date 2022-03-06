@@ -6,6 +6,8 @@ title:
 
 ![alt text](fluxlogo_big.png)
 
+![alt text](fluxlogo_bigger.png)
+
 {% include disqus.html %}
 
 {% assign posts = paginator.posts | default: site.posts %}
