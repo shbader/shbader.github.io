@@ -9,7 +9,7 @@ tags: [test]
 comments: true
 usemathjax: true
 ---
-$$E=mc^2$$
+$$E=h \nu$$
 
 \begin{equation}
 y = mx+c
