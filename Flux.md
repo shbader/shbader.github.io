@@ -2,7 +2,7 @@
 layout: page
 title: 
 ---
-![alt text](Flux_logo.png)
+![alt text](fluxlogo.png)
 
 {% include disqus.html %}
 
