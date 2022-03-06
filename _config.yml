@@ -20,8 +20,9 @@ navbar-links:
     - Publications: "publications"
   Teachingg & Mentorship:
   Blogs:
-    - Flux: "https://backscatterblog.blogspot.com/"
+    - Flux: "Flux"
     - backscatter: "backscatter"
+    - backscatter: "https://backscatterblog.blogspot.com/"
   #Author's home: "https://xyz.com"
 
 # --- Logo --- #
