@@ -4,6 +4,8 @@ title:
 ---
 ![alt text](fluxlogo.png)
 
+<img src="https://github.com/shujauthbader/temshb.github.io/blob/master/fluxlogo.png" width="200" height="200" />
+
 {% include disqus.html %}
 
 {% assign posts = paginator.posts | default: site.posts %}
