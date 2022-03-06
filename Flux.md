@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flux
+title: 
 ---
 
 {% include disqus.html %}
