@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 ![alt text](https://github.com/shujauthbader/temshb.github.io/blob/master/Flux_logo.png)
-https://github.com/shujauthbader/temshb.github.io/blob/master/Flux_logo.png
+
 {% include disqus.html %}
 
 {% assign posts = paginator.posts | default: site.posts %}
