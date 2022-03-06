@@ -14,6 +14,11 @@ $$E=mc^2$$
 \begin{equation}
 y = mx+c
 \end{equation}
+
+\begin{equation}
+\frac{\partial u}{\partial t} + u \cdot (\nabla u) = -\frac{\nabla p}{\rho} + \nu \nabla^2 u + f
+\end{equation}
+
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
