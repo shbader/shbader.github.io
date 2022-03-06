@@ -2,7 +2,7 @@
 layout: page
 title: 
 ---
-![alt text](https://github.com/shujauthbader/temshb.github.io/blob/master/Flux_logo.png)
+![alt text](Flux_logo.png)
 
 {% include disqus.html %}
 
