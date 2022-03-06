@@ -2,9 +2,6 @@
 layout: page
 title: 
 ---
-![alt text](fluxlogo.png)
-
-![alt text](fluxlogo_big.png)
 
 ![alt text](fluxlogo_bigger.png)
 
