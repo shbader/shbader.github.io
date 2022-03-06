@@ -1,8 +1,8 @@
 ---
 layout: post
-title: test sample
+title: Scalar Transport in OpenFOAM
 published: true
-subtitle: Each post also has a subtitle
+subtitle: Mathematics, numerics and implementation of scalar transport solver in FOAM.
 gh-repo:  shujauthbader/shujauthbader.github.io/temshb.github.io 
 gh-badge: [star, fork, follow]
 tags: [test]
