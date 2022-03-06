@@ -4,6 +4,7 @@ title:
 ---
 
 ![alt text](fluxlogo_bigger.png)
+![alt text](fluxlogo_bigger_better1.png)
 
 {% include disqus.html %}
 
