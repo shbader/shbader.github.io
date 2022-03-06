@@ -8,6 +8,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 usemathjax: true
+permalink: https://shujauthbader.github.io/temshb.github.io/flux/2022-03-05-post-sample/
 ---
 $$E=mc^2$$
 
