@@ -4,47 +4,11 @@ title:
 subtitle: Fluid Dynamics | Computational Physics | Philosophy of Science
 ---
 
-<p style="border:3px; border-style:solid; border-color:#32555c; padding: 1em;">First example with text surrounded by a red border.<br>This example also has multiple lines.</p>
 
-<style>
-.scroll-left {
- height: 50px;	
- overflow: hidden;
- position: relative;
- background: #89acb3;
- color: #2832b8;
- border: 1px solid #32555c;
-}
-.scroll-left p {
- position: absolute;
- width: 100%;
- height: 100%;
- margin: 0;
- line-height: 50px;
- text-align: center;
- /* Starting position */
- transform:translateX(100%);
- /* Apply animation to this element */
- animation: scroll-left 15s linear infinite;
-}
-/* Move it (define the animation) */
-@keyframes scroll-left {
- 0%   {
- transform: translateX(100%); 		
- }
- 100% {
- transform: translateX(-100%); 
- }
-}
-</style>
 
-<div class="scroll-left">
-<p><marquee scrollamount="0.01" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-Recent news: This is a test. <a href="https://scholar.google.com/citations?user=PnALUJcAAAAJ&hl=en&oi=ao">test link</a>
-</marquee> </p>
-</div>
-
-<marquee id='scroll_news' style="font-family:Book Antiqua; color: #2832b8" bgcolor="#89acb3" ><div onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();">Recent news: This is a test. <a href="https://scholar.google.com/citations?user=PnALUJcAAAAJ&hl=en&oi=ao">test link </div></marquee>
+<marquee id='scroll_news' style="font-family:Book Antiqua; color: #2832b8" bgcolor="#89acb3" >
+ <div onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();">
+  Recent news: This is a test. <a href="https://scholar.google.com/citations?user=PnALUJcAAAAJ&hl=en&oi=ao">test link </div></marquee>
 
 
 <div style="text-align: justify"> Hello, my name is Shujaut, and I am a doctoral candidate in Aerospace Engineering at Iowa State University.
