@@ -1100,3 +1100,13 @@ pre {
     display: inline-block;
   }
 }
+
+.float-left-area  {
+		  width: 70%;
+		  float: left;
+		  }
+
+.float-right-area {
+		  width: 30%;
+		  float: left;
+		  }
