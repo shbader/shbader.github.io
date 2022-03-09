@@ -1112,14 +1112,15 @@ pre {
 		  }
 
 .inner-left	  {
-		  padding: 5px 5px 5px 5px;
+		  font-size: 1px;
+	          padding: 5px 5px 5px 5px;
 		  margin-right: 10px;
 		  border: #999999 0px solid;
 		  min-height: 60px;
 		  }
 
 .inner-right	  {
-		  font-size: 50px;
+		  font-size: 20px;
 		  padding: 5px 5px 5px 5px;
 		  border: #999999 0px solid;
 		  min-height: 60px;
