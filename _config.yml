@@ -65,7 +65,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0001-9299-2331
   google-scholar: citations?user=Wnb0sXAAAAAJ&hl=en&oi=ao
 #  discord: invite/invite_code or users/userid 
 
@@ -160,7 +160,7 @@ footer-hover-col: "#2d5591"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "flux-blog"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
