@@ -45,7 +45,7 @@ round-avatar: true
 social-network-links:
   email: "abcd@gmai.com"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: shujaut.h.badr
+ # facebook: shujaut.h.badr
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -65,7 +65,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0001-9299-2331
+#  ORCID: 0000-0001-9299-2331
   google-scholar: citations?user=Wnb0sXAAAAAJ&hl=en&oi=ao
 #  discord: invite/invite_code or users/userid 
 
