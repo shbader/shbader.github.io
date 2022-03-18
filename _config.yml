@@ -18,6 +18,7 @@ navbar-links:
   Research: 
     - Projects: "projects"
     - Publications: "publications"
+    - Pubs: "pubs"
   Teaching & Mentorship: "teach_n_mentor"
   Blogs:
     - Flux: "Flux"
