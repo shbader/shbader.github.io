@@ -5,29 +5,36 @@ subtitle:
 ---
 <html>
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">    </script>
+<script> 
 $(document).ready(function(){
-  $(".btn1").click(function(){
-    $("p").slideUp();
-  });
-  $(".btn2").click(function(){
-    $("p").slideDown();
-  });
+$("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+});
 });
 </script>
+
+<style> 
+#panel, #flip {
+padding: 5px;
+text-align: center;
+background-color: #e5eecc;
+border: solid 1px #c3c3c3;
+}
+
+#panel {
+padding: 50px;
+display: none;
+}
+</style>
 </head>
 <body>
 
-<p>This is a paragraph.</p>
-
-<button class="btn1">Slide up</button>
-<button class="btn2">Slide down</button>
+<div id="flip">Click to slide down panel</div>
+<div id="panel">Hello world!</div>
 
 </body>
 </html>
-
-
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">    </script>
     <script>
