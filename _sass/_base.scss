@@ -295,10 +295,10 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
-  .navbar-nav .nav-item.active > .nav-link {
+  .navbar-nav .nav-item.active > .nav-link { // this option sets the formatting of the navbar entry that is currently loaded.. eg. click on Publications, land on that page, this option deals with how Publications title on navbar would look like
     background-color: inherit;
     font-weight: bolder;
-    color: var(--global-bg-color); // same as above
+    color: var(--global-navbar-hover-color); 
 
     &:hover {
       color: var(--global-hover-color);
