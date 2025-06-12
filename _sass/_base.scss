@@ -245,7 +245,7 @@ ul.task-list input[type="checkbox"] {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 50px solid var(--global-divider-color);
+  border-bottom: 5px solid var(--global-divider-color);
   background-color: var(--global-navbar-bgteal-color); 
   opacity: 1.0;
 }
@@ -255,11 +255,11 @@ ul.task-list input[type="checkbox"] {
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: var(--global-bg-color);
+    color: var(--global-bg-color); // global-navbar-text-color to white didn't work for some reason. so using global-bg-color = white
   }
 
   a:hover {
-    color: var(--global-navbar-hover-color);
+    color: var(--global-navbar-hover-color); // this works 
   }
 
   .dropdown-divider {
@@ -268,7 +268,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .dropdown-item {
-  color: var(--global-navbar-text-color);
+  color: var(--global-bg-color); // use global-bg-color for white proxy as above
 
   &:hover {
     color: var(--global-navbar-hover-color);
@@ -284,11 +284,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-navbar-text-color);
+    color: var(--global-bg-color); // same as above
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-navbar-text-color);
+    color: var(--global-bg-color); // same as above
 
     &:hover {
       color: var(--global-navbar-hover-color);
