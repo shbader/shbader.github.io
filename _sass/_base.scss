@@ -247,11 +247,11 @@ ul.task-list input[type="checkbox"] {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bgteal-color); 
-  opacity: 1.0;
+  opacity: 0.95;
 }
 
 .navbar .dropdown-menu {
-  background-color: var(--teal-color);
+  background-color: var(--global-bgteal-color);
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
