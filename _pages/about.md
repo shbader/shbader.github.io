@@ -27,11 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts .........................................#Discontinuous Galerkin (DG) method based numerical tools to study and predict the thermo-poro-elastic material-response in elastic solid Thermal Protection System (TPS) materials. 
 ---
 
-Welcome! I am Shujaut Bader. I am a fluid dynamicist currently working as a postdoctoral associate with Prof. Daniel J. Bodony at the Center for Hypersonics and Entry Systems Studies (CHESS) at the University of Illinois Urbana-Champaign. At CHESS, I contribute towards the development of the state-of-the-art simulation, modeling, and data reduction tools to predict and study high-temperature flows. 
+Welcome! I am Shujaut Bader. I am a fluid dynamicist currently working as a postdoctoral associate with Prof. Daniel J. Bodony at the Center for Hypersonics and Entry Systems Studies (CHESS) at the University of Illinois Urbana-Champaign. At CHESS, I contribute towards the development of the state-of-the-art simulation and modeling tools to predict and study the thermo-poro-elastic response of elastic solid Thermal Protection Systems (TPS) in high-enthalphy flow conditions during re-entry.  
+
+Prior to this, I was a Humboldt Postdoctoral Fellow in the Computational Flow Physics and Data Assimilation (ComFyDA) group at the Max Planck Institute for Solar System Research (MPS) in Germany, where I developed a conservative, second-order finite difference solver for cartesian dynamos driven by Rayleigh Bénard convection (RBC). Additionally, I worked on the physics of thermal/magneto-convective flows relevant in various geophysical and astrophysical contexts. 
+
+Previously, I obtained my Ph.D. in Aerospace Engineering with minors in Astrophysics and Applied Scientific Computing from Iowa State University under the supervision of Prof. Paul Durbin. 
 
 
-
-My research interests lie at the intersection of theoretical and computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
+My research interests lie at the intersection of the broad categories of theoretical/computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
 
 1. Turbulence simulation and modeling (Hybrid RANS/LES and subgrid methods)
 2. Thermal/Magneto-convection and magnetohydrodynamics
