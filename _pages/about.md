@@ -31,7 +31,7 @@ Welcome! I am Shujaut Bader. I am a fluid dynamicist currently working as a post
 
 My research interests lie at the intersection of theoretical and computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
 
-1. Turbulence simulation and modeling (Hybrid RANS/DES and subgrid methods)
+1. Turbulence simulation and modeling (Hybrid RANS/LES and subgrid methods)
 2. Thermal/Magneto-convection and magnetohydrodynamics
 3. Hypersonics and compressible flows
 
