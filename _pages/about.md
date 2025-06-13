@@ -33,6 +33,9 @@ Prior to this, I was hosted by Dr. Xiaojue Zhu as a Humboldt Postdoctoral Fellow
 
 Previously, I obtained my Ph.D. in Aerospace Engineering with minors in Astrophysics and Applied Scientific Computing from Iowa State University under the supervision of Prof. Paul Durbin. 
 
+### **Research Interests**
+## **Research Interests**
+# **Research Interests**
 
 My research interests lie at the intersection of the broad categories of theoretical/computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
 
