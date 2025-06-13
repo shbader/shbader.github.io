@@ -29,11 +29,10 @@ latest_posts:
 
 Welcome! I am Shujaut Bader. I am a fluid dynamicist currently working as a postdoctoral associate with Prof. Daniel J. Bodony at the Center for Hypersonics and Entry Systems Studies (CHESS) at the University of Illinois Urbana-Champaign. At CHESS, I contribute towards the development of a Discontinuous Galerkin (DG) method based numerical tools to study and predict the thermo-poro-elastic material-response in elastic solid Thermal Protection System (TPS) materials. 
 
-My research interests lie at the intersection of fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
+My research interests lie at the intersection of theoretical and computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
 
 1. Turbulence simulation and modeling (Hybrid RANS/DES and subgrid methods)
-2. Magnetoconvection and magnetohydrodyhamics
-3. Thermal convection
-4. Hypersonics and compressible flows
+2. Thermal/Magneto-convection and magnetohydrodynamics
+3. Hypersonics and compressible flows
 
   <br> <br>
