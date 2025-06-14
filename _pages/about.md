@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <ul style="list-style-type: square; font-family: 'Arial', sans-serif; color: #275164; font-size: 15px; margin-left: -30px;">
+    <ul style="list-style-type: square; font-family: 'Arial', sans-serif; color: #275164; font-size: 15px; margin-left: -25px;">
       <li>(2024-) Postdoc Assoc., CHESS, UIUC</li>
       <li>(2022-24) Humboldt Fellow, Max Planck Inst., Germany</li>
       <li>(2017-22) Ph.D. Aero. Engg. (M: Astrophys. & HPC), Iowa State Univ.</li>
