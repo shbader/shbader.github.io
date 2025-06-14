@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size:20px; color:blue;">education1 education 3</p>
-    <p style="font-size:20px; color:blue;">education 2 education 3education 3</p>
-    <p style="font-size:20px; color:blue;">education 3</p>
+    <ul style="list-style-type: square; font-family: 'Arial', sans-serif; color: #275164; font-size: 20px;">
+      <li>education1 education 3</li>
+      <li>education 2 education 3education 3</li>
+      <li>education 3</li>
+    </ul>
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
