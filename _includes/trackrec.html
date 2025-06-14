@@ -1,60 +1,53 @@
 <style>
-.timeline {
-  border-left: 3px solid #275164;
-  margin-left: -20px;
-  padding-left: 20px;
+.education-list {
+  list-style-type: square;
+  list-style-position: outside;
+  padding-left: 1.5em;
+  margin: 0;
   font-family: Arial, sans-serif;
   color: #275164;
   font-size: 15px;
-  background-color: #fff;
-  border-radius: 10px;
-  padding: 20px 15px;
-  width: fit-content;
 }
-.timeline-entry {
+
+.education-entry {
   display: flex;
   align-items: center;
-  margin-bottom: 18px;
-  gap: 10px;
-  position: relative;
+  margin-bottom: 10px;
+  gap: 8px;
 }
-.timeline-entry::before {
-  content: "";
-  display: none; /* hides the dot bullet */
-}
-.timeline-logo {
-  width: 30px;
-  height: 30px;
+
+.education-logo {
+  width: 22px;
+  height: 22px;
   object-fit: cover;
-  border-radius: 6px;
-  background-color: transparent;
+  border-radius: 4px;
   flex-shrink: 0;
 }
 </style>
 
-<div class="timeline">
-  <div class="timeline-entry">
-    <img src="/assets/img/1.jpg" class="timeline-logo">
-    <div><strong>(2024–)</strong> Postdoc Assoc., CHESS, UIUC</div>
-  </div>
-  <div class="timeline-entry">
-    <img src="/assets/img/1.jpg" class="timeline-logo">
-    <div><strong>(2024–25)</strong> Humboldt Fellow, Max Planck Inst., Germany</div>
-  </div>
-  <div class="timeline-entry">
-    <img src="/assets/img/1.jpg" class="timeline-logo">
-    <div><strong>(2022–24)</strong> Postdoc Assoc., Max Planck Inst., Germany</div>
-  </div>
-  <div class="timeline-entry">
-    <img src="/assets/img/1.jpg" class="timeline-logo">
-    <div><strong>(2017–22)</strong> Ph.D. Aero. Engg. (M: Astrophys. & App. Sci. Comput.), Iowa State Univ.</div>
-  </div>
-  <div class="timeline-entry">
-    <img src="/assets/img/1.jpg" class="timeline-logo">
-    <div><strong>(2015–17)</strong> M.S. Mech. Engg. (Thermofluids), UMass Amherst</div>
-  </div>
-  <div class="timeline-entry">
-    <img src="/assets/img/1.jpg" class="timeline-logo">
-    <div><strong>(2010–14)</strong> B.Tech Mech. Engg., AMU, India</div>
-  </div>
-</div>
+<ul class="education-list">
+  <li class="education-entry">
+    <img src="/assets/img/1.jpg" class="education-logo">
+    <span><strong>(2024–)</strong> Postdoc Assoc., CHESS, UIUC</span>
+  </li>
+  <li class="education-entry">
+    <img src="/assets/img/1.jpg" class="education-logo">
+    <span><strong>(2024–25)</strong> Humboldt Fellow, Max Planck Inst., Germany</span>
+  </li>
+  <li class="education-entry">
+    <img src="/assets/img/1.jpg" class="education-logo">
+    <span><strong>(2022–24)</strong> Postdoc Assoc., Max Planck Inst., Germany</span>
+  </li>
+  <li class="education-entry">
+    <img src="/assets/img/1.jpg" class="education-logo">
+    <span><strong>(2017–22)</strong> Ph.D. Aero. Engg. (M: Astrophys. & App. Sci. Comput.), Iowa State Univ.</span>
+  </li>
+  <li class="education-entry">
+    <img src="/assets/img/1.jpg" class="education-logo">
+    <span><strong>(2015–17)</strong> M.S. Mech. Engg. (Thermofluids), UMass Amherst</span>
+  </li>
+  <li class="education-entry">
+    <img src="/assets/img/1.jpg" class="education-logo">
+    <span><strong>(2010–14)</strong> B.Tech Mech. Engg., AMU, India</span>
+  </li>
+</ul>
