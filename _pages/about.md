@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+  <div class="rounded-box">
     <ul style="list-style-type: square; font-family: 'Arial', sans-serif; color: #275164; font-size: 15px; margin-left: -25px;">
       <li>(2024-) Postdoc Assoc., CHESS, UIUC</li>
       <li>(2022-24) Humboldt Fellow, Max Planck Inst., Germany</li>
@@ -16,6 +17,7 @@ profile:
       <li>(2015-17) M.S. Mech. Engg. (Thermofluids), UMass Amherst</li>
       <li>(2010-14) B.Tech Mech. Engg., AMU, India</li>
     </ul>
+    </div>
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
