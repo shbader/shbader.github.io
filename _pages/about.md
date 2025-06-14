@@ -35,7 +35,7 @@ Previously, I obtained my Ph.D. in Aerospace Engineering with minors in Astrophy
 
 ### **Research Interests**
 
-My research interests lie at the intersection of the broad categories of theoretical/computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
+My research interests lie at the intersection of the theoretical/computational fluid dynamics, applied physics, and computational physics, with particular emphasis on the following areas: 
 
 1. Turbulence simulation and modeling (Hybrid RANS/LES and subgrid methods)
 2. Thermal/Magneto-convection and magnetohydrodynamics
