@@ -12,12 +12,6 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
-  {% if page.social %}
-<div class="social">
-  <div class="contact-icons">{% include social.liquid %}</div>
-  <div class="contact-note">{{ site.contact_note }}</div>
-</div>
-{% endif %}
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
