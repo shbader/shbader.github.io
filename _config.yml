@@ -17,6 +17,37 @@ contact_note: >
       <li>(2010–14) B.Tech Mech. Engg., AMU, India</li>
     </ul>
   </div>
+  <style>
+.timeline {
+  border-left: 3px solid #275164;
+  margin-left: -20px;
+  padding-left: 15px;
+  font-family: Arial, sans-serif;
+  color: #275164;
+  font-size: 15px;
+}
+.timeline-entry {
+  margin-bottom: 20px;
+  position: relative;
+}
+.timeline-entry::before {
+  content: "●";
+  color: #275164;
+  font-size: 12px;
+  position: absolute;
+  left: -13px;
+  top: 0;
+}
+</style>
+
+<div class="timeline">
+  <div class="timeline-entry"><strong>(2024–)</strong> Postdoc Assoc., CHESS, UIUC</div>
+  <div class="timeline-entry"><strong>(2024–25)</strong> Humboldt Fellow, Max Planck Inst., Germany</div>
+  <div class="timeline-entry"><strong>(2022–24)</strong> Postdoc Assoc., Max Planck Inst., Germany</div>
+  <div class="timeline-entry"><strong>(2017–22)</strong> Ph.D. Aero. Engg. (M: Astrophys. & App. Sci. Comput.), Iowa State Univ.</div>
+  <div class="timeline-entry"><strong>(2015–17)</strong> M.S. Mech. Engg. (Thermofluids), UMass Amherst</div>
+  <div class="timeline-entry"><strong>(2010–14)</strong> B.Tech Mech. Engg., AMU, India</div>
+</div>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
