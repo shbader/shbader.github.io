@@ -80,13 +80,6 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
-# added education-----------------------------------------------
-education:
-- "(2024-) Postdoctoral Associate, CHESS, UIUC" 
-- "(2022-2024) Humboldt Postdoctoral Fellow, MPS, Germany" 
-- "(2022) Ph.D. Aerospace Engg, (Astrophys. & HPC), Iowa State Univ" 
-- "(2017) M.S. Mech Engg, UMass Amherst" 
-- "(2014) B.Tech. Mech Engg, AMU, India" 
 
 # -----------------------------------------------------------------------------
 # Blog
