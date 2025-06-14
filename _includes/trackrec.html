@@ -2,62 +2,59 @@
 .timeline {
   border-left: 3px solid #275164;
   margin-left: -20px;
-  padding-left: 25px;
+  padding-left: 20px;
   font-family: Arial, sans-serif;
   color: #275164;
   font-size: 15px;
   background-color: #fff;
   border-radius: 10px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding: 20px 15px;
   width: fit-content;
 }
 .timeline-entry {
-  margin-bottom: 20px;
-  position: relative;
   display: flex;
-  align-items: flex-start;
-  gap: 8px;
+  align-items: center;
+  margin-bottom: 18px;
+  gap: 10px;
+  position: relative;
 }
 .timeline-entry::before {
-  content: "●";
-  color: #275164;
-  font-size: 10px;
-  position: absolute;
-  left: -17px;
-  top: 3px;
+  content: "";
+  display: none; /* hides the dot bullet */
 }
 .timeline-logo {
-  width: 22px;
-  height: 22px;
-  object-fit: contain;
-  margin-top: 2px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 6px;
+  background-color: transparent;
+  flex-shrink: 0;
 }
 </style>
 
 <div class="timeline">
   <div class="timeline-entry">
-    <img src="assets/img/1.jpg" class="timeline-logo">
+    <img src="/assets/img/1.png" class="timeline-logo">
     <div><strong>(2024–)</strong> Postdoc Assoc., CHESS, UIUC</div>
   </div>
   <div class="timeline-entry">
-    <img src="assets/img/1.jpg" class="timeline-logo">
+    <img src="/assets/img/1.png" class="timeline-logo">
     <div><strong>(2024–25)</strong> Humboldt Fellow, Max Planck Inst., Germany</div>
   </div>
   <div class="timeline-entry">
-    <img src="assets/img/1.jpg" class="timeline-logo">
+    <img src="/assets/img/1.png" class="timeline-logo">
     <div><strong>(2022–24)</strong> Postdoc Assoc., Max Planck Inst., Germany</div>
   </div>
   <div class="timeline-entry">
-    <img src="assets/img/1.jpg">
+    <img src="/assets/img/1.png" class="timeline-logo">
     <div><strong>(2017–22)</strong> Ph.D. Aero. Engg. (M: Astrophys. & App. Sci. Comput.), Iowa State Univ.</div>
   </div>
   <div class="timeline-entry">
-    <img src="assets/img/1.jpg" class="timeline-logo">
+    <img src="/assets/img/1.png" class="timeline-logo">
     <div><strong>(2015–17)</strong> M.S. Mech. Engg. (Thermofluids), UMass Amherst</div>
   </div>
   <div class="timeline-entry">
-    <img src="assets/img/1.jpg" class="timeline-logo">
+    <img src="/assets/img/1.png" class="timeline-logo">
     <div><strong>(2010–14)</strong> B.Tech Mech. Engg., AMU, India</div>
   </div>
 </div>
