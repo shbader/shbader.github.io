@@ -3,7 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: 
-
+---
 profile:
   align: right
   image: prof_pic.jpg
@@ -34,7 +34,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts .........................................#Discontinuous Galerkin (DG) method based numerical tools to study and predict the thermo-poro-elastic material-response in elastic solid Thermal Protection System (TPS) materials. 
----
+
 
 Welcome! My name is Shujaut and I am a fluid dynamicist currently working as a postdoctoral associate with Prof. Daniel J. Bodony at the Center for Hypersonics and Entry Systems Studies (CHESS) at the University of Illinois Urbana-Champaign. At CHESS, I contribute towards the development of the state-of-the-art simulation and modeling tools to predict and study the thermo-poro-elastic response of Thermal Protection Systems (TPS) in high-enthalphy flow conditions during re-entry.  
 
