@@ -3,13 +3,12 @@ layout: about
 title: Home
 permalink: /
 subtitle: 
----
+
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <div class="rounded-box">
     <ul style="list-style-type: square; font-family: 'Arial', sans-serif; color: #275164; font-size: 15px; margin-left: -25px;">
       <li>(2024-) Postdoc Assoc., CHESS, UIUC</li>
       <li>(2022-24) Humboldt Fellow, Max Planck Inst., Germany</li>
@@ -17,7 +16,6 @@ profile:
       <li>(2015-17) M.S. Mech. Engg. (Thermofluids), UMass Amherst</li>
       <li>(2010-14) B.Tech Mech. Engg., AMU, India</li>
     </ul>
-    </div>
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
@@ -34,7 +32,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts .........................................#Discontinuous Galerkin (DG) method based numerical tools to study and predict the thermo-poro-elastic material-response in elastic solid Thermal Protection System (TPS) materials. 
-
+---
 
 Welcome! My name is Shujaut and I am a fluid dynamicist currently working as a postdoctoral associate with Prof. Daniel J. Bodony at the Center for Hypersonics and Entry Systems Studies (CHESS) at the University of Illinois Urbana-Champaign. At CHESS, I contribute towards the development of the state-of-the-art simulation and modeling tools to predict and study the thermo-poro-elastic response of Thermal Protection Systems (TPS) in high-enthalphy flow conditions during re-entry.  
 
